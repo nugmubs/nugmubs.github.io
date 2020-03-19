@@ -1,9 +1,11 @@
 ---
-title: "Getting Started blog.nugmub.com"
+title: Getting Started blog.nugmub.com
 date: 2020-03-11 00:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 use_math: true
+seo:
+  date_modified: 2020-03-19 21:52:31 +0900
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.

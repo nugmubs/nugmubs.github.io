@@ -3,6 +3,8 @@ title: Getting Started
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
+seo:
+  date_modified: 2020-03-19 21:14:10 +0900
 ---
 
 ## Preparation
