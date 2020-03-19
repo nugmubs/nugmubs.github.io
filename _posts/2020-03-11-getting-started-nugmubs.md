@@ -1,14 +1,12 @@
 ---
-title: "Getting Started Nugmubs.github.io"
+title: "Getting Started blog.nugmub.com"
 date: 2020-03-11 00:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-mathjax: true
+# mathjax: true
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
-
-$$ 2 + x^2 = 11 $$
 
 ## Titles
 
@@ -153,6 +151,22 @@ fi;
   </div>
 </div>
 ```
+
+## Katex Support
+
+I added katex to support latex syntax
+
+{% raw %}
+```html
+{% katex display %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
+```
+{% endraw %}
+
+{% katex display %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
 
 
 ## Reverse Footnote
