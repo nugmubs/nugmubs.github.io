@@ -3,12 +3,12 @@ title: "Getting Started blog.nugmub.com"
 date: 2020-03-11 00:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-# mathjax: true
+use_math: true
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
 
-## Titles
+## 159
 
 ***
 # H1
@@ -158,16 +158,27 @@ I added katex to support latex syntax
 
 {% raw %}
 ```html
-{% katex display %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
 ```
 {% endraw %}
 
-{% katex display %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
+$$ \sqrt{a^2+b^2} $$
 
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
 
 ## Reverse Footnote
 
