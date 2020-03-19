@@ -172,7 +172,7 @@ def generate_tag_pages(is_verbose):
 def main():
     check_py_version()
 
-    is_verbose = False
+    is_verbose = True
 
     if len(sys.argv) > 1:
         for arg in sys.argv:
