@@ -3,12 +3,12 @@ title: "Getting Started Nugmubs.github.io"
 date: 2020-03-11 00:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
+mathjax: true
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
 
-$$a^2 + b^2 = c^2$$
-$$e^{ix} = \cos{x} + i\sin{x}$$
+$$ 2 + x^2 = 11 $$
 
 ## Titles
 
