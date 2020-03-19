@@ -64,7 +64,7 @@ def get_categories():
 
     for dir in POSTS_DIR:
         path = get_path(dir)
-        for file in glob.glob(os.path.join(path, '*.md')):
+        for file in glob.glob(os.path.join(path, '**/*.md')):
             meta = yaml.load(get_yaml(file)[0])
 
             if 'category' in meta:
@@ -129,7 +129,7 @@ def get_all_tags():
 
     for dir in POSTS_DIR:
         path = get_path(dir)
-        for file in glob.glob(os.path.join(path, '*.md')):
+        for file in glob.glob(os.path.join(path, '**/*.md')):
             meta = yaml.load(get_yaml(file)[0])
 
             if 'tags' in meta:
