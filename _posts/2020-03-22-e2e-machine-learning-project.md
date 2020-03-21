@@ -5,7 +5,7 @@ categories: [MachineLearning, Toy Project]
 tags: [favicon]
 toc: true
 seo:
-  date_modified: 2020-03-19 21:14:10 +0900
+  date_modified: 2020-03-22 06:56:37 +0900
 ---
 
 In [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/), the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
