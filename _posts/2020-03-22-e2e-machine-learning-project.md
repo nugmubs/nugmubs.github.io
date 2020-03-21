@@ -1,7 +1,7 @@
 ---
 title: 부동산 분석 머신 러닝 프로젝트
 date: 2020-03-22 00:00:00 +0800
-categories: [MachineLearning, Toy Project]
+categories: [머신러닝, 토이프로젝트]
 tags: [favicon]
 toc: true
 seo:
