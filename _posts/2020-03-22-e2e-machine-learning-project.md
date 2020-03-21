@@ -5,7 +5,7 @@ categories: [머신러닝, 토이프로젝트]
 tags: [favicon]
 toc: true
 seo:
-  date_modified: 2020-03-22 06:56:37 +0900
+  date_modified: 2020-03-22 06:59:50 +0900
 ---
 
 In [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/), the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
