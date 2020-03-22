@@ -5,7 +5,7 @@ categories: [머신러닝, 토이프로젝트]
 tags: [초간단]
 toc: true
 seo:
-  date_modified: 2020-03-22 06:59:50 +0900
+  date_modified: 2020-03-22 18:33:19 +0900
 ---
 
 이 내용은 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](http://11st.kr/QR/P/2651010385) 을 참고하여 작성되었습니다. 공부를 위해 지엽적인 설명은 최대한 요약하고 핵심적인 내용을 간추리기 위해 노력하였습니다.
