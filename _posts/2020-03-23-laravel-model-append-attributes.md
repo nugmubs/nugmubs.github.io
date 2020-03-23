@@ -1,3 +1,14 @@
+---
+title: 라러벨 모델 $appends 프로퍼티
+date: 2020-03-22 00:00:00 +0800
+categories: [라러벨, 개념설명]
+tags: [설명]
+toc: true
+use_math: true
+seo:
+  date_modified: 2020-03-23 18:58:34 +0900
+---
+
 # 라러벨 모델 $appends 프로퍼티
 
 라러벨의 View Template 에서 reply.blade.php 를 Reply.vue 컴포넌트로 치환하였다. 그리고 

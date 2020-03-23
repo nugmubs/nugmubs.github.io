@@ -10,4 +10,6 @@ seo:
 
 머신 러닝 프로젝트의 체크리스트를 번역하여 수록한 내용입니다. 이 내용은 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](http://11st.kr/QR/P/2651010385) 을 참고하여 작성되었습니다. 
 
-공부를 위해 지엽적인 설명은 최대한 요약하고 핵심적인 내용을 간추리기 위해 노력하였습니다.
+내용 전달을 위해 지엽적인 설명은 최대한 요약하고 핵심적인 내용을 간추리기 위해 노력하였습니다.
+
+TODO: 작성 예정
