@@ -6,7 +6,7 @@ tags: [설명]
 toc: true
 use_math: true
 seo:
-  date_modified: 2020-03-23 18:58:34 +0900
+  date_modified: 2020-03-23 19:02:04 +0900
 ---
 
 # 라러벨 모델 $appends 프로퍼티

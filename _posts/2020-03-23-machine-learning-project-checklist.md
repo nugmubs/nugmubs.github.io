@@ -5,7 +5,7 @@ categories: [머신러닝, 토이프로젝트]
 tags: [체크리스트]
 toc: true
 seo:
-  date_modified: 2020-03-22 18:33:19 +0900
+  date_modified: 2020-03-23 19:02:04 +0900
 ---
 
 머신 러닝 프로젝트의 체크리스트를 번역하여 수록한 내용입니다. 이 내용은 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](http://11st.kr/QR/P/2651010385) 을 참고하여 작성되었습니다. 
