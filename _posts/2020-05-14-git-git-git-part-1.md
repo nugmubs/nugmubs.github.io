@@ -6,7 +6,7 @@ tags: [tutorial, basic]
 toc: true
 use_math: false
 seo:
-  date_modified: 2020-05-14 09:02:19 +0900
+  date_modified: 2020-05-15 11:37:09 +0900
 ---
 
 ## Git Git Git (Three Git)
@@ -47,7 +47,9 @@ seo:
 
 > 이 내용은 [아틀라시안: Rewriting History](https://www.atlassian.com/git/tutorials/rewriting-history) 를 참고하였습니다. 
 
+The git commit --amend command is a convenient way to modify the most recent commit.
 
+It lets you combine staged changes with the previous commit instead of creating an entirely new commit. 
 
 ```bash
 git commit --amend
