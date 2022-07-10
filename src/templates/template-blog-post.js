@@ -1,6 +1,9 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import rehypeReact from "rehype-react"
+
+import "../styles/global.css";
+
 import { defineCustomElements as deckDeckGoHighlightElement } from "@deckdeckgo/highlight-code/dist/loader";
 
 const renderAst = new rehypeReact({

@@ -1,5 +1,5 @@
 ---
-title: "커스터마이징 Gatsby : 기본적인 커스터마이징 구도 잡기"
+title: "커스터마이징 Gatsby: 기본적인 커스터마이징 구도 잡기"
 date: "2022-07-10"
 draft: false
 author: Nugmubs
@@ -29,7 +29,22 @@ Gatsby를 이용하여 블로그를 작성하고 이를 deploy 한다. 기본적
 - ToC 사이드바 
 - 화면 사이즈별 최적화
 - 구글 검색 SEO 추가
-- 
+
+
+## deploy 에러 해결 
+
+`npm run deploy` 명령을 실행하는 도중에 아래와 같은 에러가 발생할 경우 대응방법을 소개
+
+- [fatal: A branch named 'gh-pages' already exists](https://stackoverflow.com/a/63972301/8536042)
+
+
+```bash
+git fetch --prune
+```
+
+```bash
+rm -rf node_modules/.cache/gh-pages
+```
 
 ## 작업 계획
 
