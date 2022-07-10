@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'D2Coding';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+	font-family: D2Coding, 'D2 coding', monospace;
+  line-height: 1.5;
+}
+
+code {
+  padding: 0.15rem;
+  background-color: #F1F1F1;
+  border-radius: 5px;
+  font-family: "D2Coding", "Sans Mono", "Courier", "monospace";
+  font-size: 1.00rem;
+}
+
+.blog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-container {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  /* font-weight: bold; */
+  /* text-align: center; */
+  width: 60%;
+  min-width: 800px;
+  margin:0px auto;
+}
